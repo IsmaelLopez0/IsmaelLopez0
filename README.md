@@ -3,8 +3,8 @@
 
 <p>Graduated from a Computer Systems Engineering degree with a specialty in Web Application Development, with more than 2 years of experience in startups creating complete applications taking the role of Full Stack (NodeJS, React, AWS, MySQL). I am constantly preparing to improve my developing skills and competencies, always looking for new challenges.</p>
 
-- 🔭 I’m currently working on [Content-oh!](www.contentoh.com) platform.
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on [VivaWell](www.vivawellok.com) platform.
+- 🌱 I’m currently learning Etical Hacking!
 - 📫 How to reach me: **ismael97lopez@gmail.com**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IsmaelLopez0)](https://github.com/ryo-ma/github-profile-trophy)
