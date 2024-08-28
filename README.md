@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/ismaelcaslop/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/ismaelcaslop/" height="25" width="25" /></a>
 </p>
 
+I invite you to see my [portfolio!](https://ismael-portfolio.vercel.app/)
+
 <hr />
 
 | Skills | ... |
